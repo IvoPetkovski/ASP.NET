@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ASP.NET\\Homeworks\\UserController\\UserController\\UserController.csproj",
+      "projectUniqueName": "C:\\ASP.NET\\Homeworks\\ASP.NET\\Homework 1\\UserController\\UserController\\UserController.csproj",
       "projectName": "UserController",
-      "projectPath": "C:\\ASP.NET\\Homeworks\\UserController\\UserController\\UserController.csproj",
+      "projectPath": "C:\\ASP.NET\\Homeworks\\ASP.NET\\Homework 1\\UserController\\UserController\\UserController.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "C:\\ASP.NET\\Homeworks\\UserController\\UserController\\obj\\",
+      "outputPath": "C:\\ASP.NET\\Homeworks\\ASP.NET\\Homework 1\\UserController\\UserController\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",

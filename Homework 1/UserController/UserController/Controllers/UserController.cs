@@ -23,7 +23,7 @@ namespace UserController.Controllers
         // RedirectResult
         public IActionResult GetContact()
         {
-            return RedirectToAction("Admin", "AdminController");
+            return RedirectToAction("Admin", "Admin");
         }
 
         // EmptyResult
